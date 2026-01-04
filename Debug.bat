@@ -1,0 +1,1 @@
+start bin\xrEngine.exe -dev_mode
