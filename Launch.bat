@@ -1,1 +1,1 @@
-start bin\xrEngine.exe
+start bin\x64\xrEngine.exe
